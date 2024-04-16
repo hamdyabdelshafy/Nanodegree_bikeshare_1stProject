@@ -26,6 +26,7 @@ To run this project, you need to have Python installed on your machine. You'll a
 ## Project Structure
 - `bikeshare.py`: Main Python script for analyzing bikeshare data.
 - `chicago.csv`, `new_york_city.csv`, `washington.csv`: CSV files containing bikeshare data for Chicago, New York City, and Washington, respectively.
+- The original files of these data are large, and you download them from here: Chicago: https://divvybikes.com/system-data, New York City: https://citibikenyc.com/system-data, and Washington: https://capitalbikeshare.com/system-data
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
